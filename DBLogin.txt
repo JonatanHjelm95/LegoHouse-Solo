@@ -1,0 +1,4 @@
+host: 104.248.17.255
+port: 3306
+user: transformer
+pass: transformerpass
